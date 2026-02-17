@@ -4,7 +4,6 @@
  * Created on: Feb 2026
  * This program will do basic math
 */
-
 basic.clearScreen()
 basic.pause(1000)
 
